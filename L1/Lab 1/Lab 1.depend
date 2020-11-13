@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1603996413 source:c:\users\user\desktop\lab 1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1603991424 source:c:\users\user\desktop\lab 1\listing2.c
+	<stdio.h>
+
+1603998296 source:c:\users\user\desktop\sem iv\internet device\lab 1\main.c
+	<stdio.h>
+	<stdlib.h>
+

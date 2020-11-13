@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1604895734 source:c:\users\dell\desktop\sem iv\internet device\lab modules\l2\activity4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1605237414 source:c:\users\dell\desktop\sem iv\internet of things (elf)\lab modules\l2\activity4\main.c
+	<stdio.h>
+	<math.h>
+
